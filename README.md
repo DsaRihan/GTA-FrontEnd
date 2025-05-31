@@ -15,7 +15,7 @@ A sleek, high-impact landing page inspired by Grand Theft Auto VI (GTA 6), built
 
 ## 📸 Preview
 
-![GTA 6 Parallax Demo](https://dsarihan.github.io/GTA-FrontEnd/)
+🔗 [Preview](https://dsarihan.github.io/GTA-FrontEnd/)
 
 ---
 
