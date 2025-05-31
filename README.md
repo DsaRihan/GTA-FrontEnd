@@ -15,8 +15,7 @@ A sleek, high-impact landing page inspired by Grand Theft Auto VI (GTA 6), built
 
 ## 📸 Preview
 
-![GTA 6 Parallax Demo](https://your-image-url-here.com)  
-> Replace the URL above with a screenshot or GIF of your site.
+![GTA 6 Parallax Demo](https://dsarihan.github.io/GTA-FrontEnd/)
 
 ---
 
@@ -93,18 +92,3 @@ gta6-parallax-frontend/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 📬 Contact
-
-Got feedback or want to collaborate? Reach out via your-email@example.com or connect on [LinkedIn](https://linkedin.com/in/yourprofile).
-
----
-
----
-
-*Let me know if you'd like help with the actual source code (`App.jsx`, parallax logic, Tailwind setup, etc.) or assets for the project.*
